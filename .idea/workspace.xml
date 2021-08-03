@@ -5,41 +5,13 @@
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b7254d-d968-47b2-8169-e88f6fa7cae7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hi/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/.rustc_info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/CACHEDIR.TAG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/.cargo-lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/.fingerprint/hi-4693fd5857c898bb/bin-hi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/.fingerprint/hi-4693fd5857c898bb/bin-hi.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/.fingerprint/hi-4693fd5857c898bb/dep-bin-hi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/.fingerprint/hi-4693fd5857c898bb/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/deps/hi.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/deps/hi.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/deps/hi.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/hi.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/hi.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/hi.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/1jl26ms4cqzsvrla.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/3alywi9xsdh70c70.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/3gijbyze3kwzcft7.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/3u8jixnjjj2hdj29.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/3zycod0sjjtvszjg.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/457wauscvvpe6cdo.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/58khwss30tiecvpd.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/dep-graph.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/query-cache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/work-products.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/xwhnwev0bhtg5u3.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn_rust.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hi/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hi/src/main.rs" afterDir="false" />
+    <list default="true" id="67c3732f-1290-4486-b920-c32c02640b0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,30 +24,118 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1wE6hFbH3n12aNAlyKt8gnl1Hcl" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="afdx6rwk" />
+  </component>
+  <component name="ProjectId" id="1wE42mFOb2TPkE1iBD4GoMfKIqZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspectionE:/learn/learn_rust/hi/src/main.rs" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsE:/learn/learn_rust/hi/src/main.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="language.rust" />
+  </component>
+  <component name="RunManager" selected="Cargo.Run">
+    <configuration name="All Tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package learn_rust --bin learn_rust" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.All Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="31b7254d-d968-47b2-8169-e88f6fa7cae7" name="Changes" comment="" />
-      <created>1628011521479</created>
+      <changelist id="67c3732f-1290-4486-b920-c32c02640b0c" name="Changes" comment="" />
+      <created>1628010210602</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1628011521479</updated>
-      <workItem from="1628011523248" duration="1000" />
+      <updated>1628010210602</updated>
+      <workItem from="1628010212568" duration="420000" />
+      <workItem from="1628010647349" duration="788000" />
+      <workItem from="1628011446348" duration="58000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

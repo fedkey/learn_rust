@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31b7254d-d968-47b2-8169-e88f6fa7cae7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hi/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/.fingerprint/hi-4693fd5857c898bb/bin-hi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/.fingerprint/hi-4693fd5857c898bb/bin-hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/.fingerprint/hi-4693fd5857c898bb/dep-bin-hi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/.fingerprint/hi-4693fd5857c898bb/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/deps/hi.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/deps/hi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/deps/hi.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/hi.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/hi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/hi.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/1jl26ms4cqzsvrla.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/3alywi9xsdh70c70.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/3gijbyze3kwzcft7.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/3u8jixnjjj2hdj29.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/3zycod0sjjtvszjg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/457wauscvvpe6cdo.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/58khwss30tiecvpd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27-1x3cxtr4hpquj/xwhnwev0bhtg5u3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi/target/debug/incremental/hi-1n3gou6wafwk/s-g12y50wv4g-gg5y27.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learn_rust.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hi/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hi/src/main.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wE6hFbH3n12aNAlyKt8gnl1Hcl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31b7254d-d968-47b2-8169-e88f6fa7cae7" name="Changes" comment="" />
+      <created>1628011521479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628011521479</updated>
+      <workItem from="1628011523248" duration="1000" />
+    </task>
+    <servers />
+  </component>
+</project>
